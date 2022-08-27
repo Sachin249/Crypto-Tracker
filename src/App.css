@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+thead{
+  position:sticky;
+  top:0;
+}
+.overflow
+{
+  overflow-x: auto;
+}
+html {
+  scroll-behavior: smooth;
+}
